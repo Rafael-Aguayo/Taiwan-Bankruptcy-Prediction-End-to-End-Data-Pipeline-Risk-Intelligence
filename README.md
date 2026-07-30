@@ -57,23 +57,23 @@ El modelo final logró concentrar al **92.2% de las quiebras históricas** dentr
 ## 📈 Fase 4: Inteligencia de Negocios (Data Studio)
 ### 📊 SECCIÓN 1: Vista Ejecutiva y Distribución de Riesgo
 
-![Vista Ejecutiva](https://raw.githubusercontent.com/Rafael-Aguayo/Taiwan-Bankruptcy-Prediction-End-to-End-Data-Pipeline-Risk-Intelligence/main/DS_1.PNG)
+![Vista Ejecutiva](https://raw.githubusercontent.com/Rafael-Aguayo/Taiwan-Bankruptcy-Prediction-End-to-End-Data-Pipeline-Risk-Intelligence/main/dashboard1.png)
 
 ---
 
 ### 📉 SECCIÓN 2: Análisis de Quiebras y Poder Predictivo
 
-![Análisis de Quiebras](https://raw.githubusercontent.com/Rafael-Aguayo/Taiwan-Bankruptcy-Prediction-End-to-End-Data-Pipeline-Risk-Intelligence/main/DS_2.PNG)
+![Análisis de Quiebras](https://raw.githubusercontent.com/Rafael-Aguayo/Taiwan-Bankruptcy-Prediction-End-to-End-Data-Pipeline-Risk-Intelligence/main/dashborad2.png)
 
 ---
 
 ### 📈 SECCIÓN 3: Distribución Estadística y Correlaciones
 
-![Distribución Estadística](https://raw.githubusercontent.com/Rafael-Aguayo/Taiwan-Bankruptcy-Prediction-End-to-End-Data-Pipeline-Risk-Intelligence/main/DS_3.PNG)
+![Distribución Estadística](https://raw.githubusercontent.com/Rafael-Aguayo/Taiwan-Bankruptcy-Prediction-End-to-End-Data-Pipeline-Risk-Intelligence/main/dashboard3.png)
 
 ---
 
 ### 🧠 SECCIÓN 4: Análisis Multidimensional de Factores de Riesgo
 
-![Análisis Multidimensional](https://raw.githubusercontent.com/Rafael-Aguayo/Taiwan-Bankruptcy-Prediction-End-to-End-Data-Pipeline-Risk-Intelligence/main/DS_4.PNG)
+![Análisis Multidimensional](https://raw.githubusercontent.com/Rafael-Aguayo/Taiwan-Bankruptcy-Prediction-End-to-End-Data-Pipeline-Risk-Intelligence/main/dashboard4.png)
 
