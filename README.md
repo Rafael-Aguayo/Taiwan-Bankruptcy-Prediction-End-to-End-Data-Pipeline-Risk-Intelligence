@@ -58,7 +58,7 @@ El modelo final logró concentrar al **92.2% de las quiebras históricas** dentr
 
 ## 📈 Fase 4: Inteligencia de Negocios (Data Studio)
 
-<img src="DS_1.PNG" alt="Vista Ejecutiva y Distribución" width="100%">
-<img src="DS_2.PNG" alt="Análisis de Quiebras" width="100%">
-<img src="DS_3.PNG" alt="Distribución Estadística" width="100%">
-<img src="DS_4.PNG" alt="Análisis Multidimensional" width="100%">
+<img src="dashboard1.png" alt="Vista Ejecutiva y Distribución" width="100%">
+<img src="dashboard2.png" alt="Análisis de Quiebras" width="100%">
+<img src="dashboard3.png" alt="Distribución Estadística" width="100%">
+<img src="dashboard4.png" alt="Análisis Multidimensional" width="100%">
