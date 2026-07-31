@@ -54,10 +54,10 @@ Si una empresa con cartera de $100M tiene una tasa de quiebra del 3.2% ($3.2M en
 🔗 [Taiwan Bankruptcy Project - GitHub](https://github.com/Rafael-Aguayo/Taiwan-Bankruptcy-Prediction-End-to-End-Data-Pipeline-Risk-Intelligence)
 
 📁 **Carpeta de Google Drive (Notebooks y Datos):**  
- [Acceso a Notebooks y Dataset](PEGAR_LINK_DE_DRIVE_AQUI)
+ [Acceso a Notebooks y Dataset](https://drive.google.com/drive/folders/1CRgVVyBJtoazWdRA5vq6FLeH5ZrRFjsZ?usp=sharing)
 
 📊 **Dashboard Interactivo:**  
-🔗 [Data Studio Dashboard - Enlace Público](PEGAR_LINK_DE_DATA_STUDIO_AQUI)
+🔗 [Data Studio Dashboard - Enlace Público](https://datastudio.google.com/reporting/c436128b-68d5-4f0f-aa00-3912d5982a56)
 
 ---
 
