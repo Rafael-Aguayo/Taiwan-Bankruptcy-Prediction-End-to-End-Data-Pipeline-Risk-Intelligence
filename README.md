@@ -109,4 +109,4 @@ Si una empresa con cartera de $100M tiene una tasa de quiebra del 3.2% ($3.2M en
 
 ### 🧠 SECCIÓN 4: Análisis Multidimensional de Factores de Riesgo
 
-![Análisis Multidimensional](https://raw.githubusercontent.com/Rafael-Aguayo/Taiwan-Bankruptcy-Prediction-End-to-End-Data-Pipeline-Risk-Intelligence/main/dashboard4.png)
+![Análisis Multidimensional](https://raw.githubusercontent.com/Rafael-Aguayo/Taiwan-Bankruptcy-Prediction-End-to-End-Data-Pipeline-Risk-Intelligence/main/dashboard4.PNG)
